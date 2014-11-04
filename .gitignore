@@ -1,2 +1,3 @@
 src/com/adobe/*
 bin-release/*
+bin-debug/*
